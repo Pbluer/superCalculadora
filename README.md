@@ -2,7 +2,7 @@
 ----
 #### Review
 
-![interface image](https://github.com/Pbluer/superCalculadora/blob/master/img/review.jpg)
+<img align="center" src="https://github.com/Pbluer/superCalculadora/blob/master/img/review.jpg">
 ----
 ### Tecnologias
 * HTML 5 
