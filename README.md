@@ -1,6 +1,5 @@
 # Super Calculadora
 ----
-#### Review
 
 <p align="center">
   <img align="center" src="https://github.com/Pbluer/superCalculadora/blob/master/img/review.jpg">
