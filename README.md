@@ -1,2 +1,16 @@
-# superCalculadora
- Pratica 01 - bootcamp IGTI
+# Super Calculadora
+----
+#### Review
+
+![interface image](https://github.com/Pbluer/Frente-de-Caixa/blob/master/template/web.jpg)
+----
+### Tecnologias
+* HTML 5 
+* Javascript
+* CSS
+
+### Design
+* Adobe XD
+* Cores:
+ * ![#455A64](https://placehold.it/15/455A64/000000?text=+) `#E6E6E6`
+ * ![#25D5B8](https://placehold.it/15/25D5B8/000000?text=+) `#636363`
