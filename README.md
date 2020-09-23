@@ -1,4 +1,4 @@
-# Super Calculadora
+# <h1 align="center">Super Calculadora</h1>
 ----
 
 <p align="center">
