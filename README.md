@@ -1,6 +1,3 @@
-# <h1 align="center">Super Calculadora</h1>
-----
-
 <p align="center">
   <img align="center" src="https://github.com/Pbluer/superCalculadora/blob/master/img/review.jpg">
  </p>
